@@ -1,5 +1,5 @@
 
-// Sudoku solver by Manisha Subrahmanya, 10 A
+// Sudoku solver by Manisha Subrahmanya
 
 import java.util.*;
 
